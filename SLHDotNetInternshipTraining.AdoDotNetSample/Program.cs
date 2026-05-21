@@ -5,6 +5,12 @@ using System.Data;
 
 Console.WriteLine("Hello, World!");
 
+AdoDotNetSample sample = new AdoDotNetSample();
+sample.Read();
+sample.Edit();
+sample.Create();
+sample.Update();
+sample.Delete();
 
 Console.ReadLine();
 

@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="SLHDotNetInternshipTraining.AdoDotNetSample/SLHDotNetInternshipTraining.AdoDotNetSample.csproj" />
+  <Project Path="SLHDotNetInternshipTraining.DapperSample/SLHDotNetInternshipTraining.DapperSample.csproj" />
 </Solution>
