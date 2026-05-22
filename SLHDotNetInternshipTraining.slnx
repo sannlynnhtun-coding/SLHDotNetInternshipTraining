@@ -1,4 +1,12 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
   <Project Path="SLHDotNetInternshipTraining.AdoDotNetSample/SLHDotNetInternshipTraining.AdoDotNetSample.csproj" />
   <Project Path="SLHDotNetInternshipTraining.DapperSample/SLHDotNetInternshipTraining.DapperSample.csproj" />
+  <Project Path="SLHDotNetInternshipTraining.EFCoreSample/SLHDotNetInternshipTraining.EFCoreSample.csproj" Id="4f3008a3-e06e-427b-9ad7-71b70d24be79" />
+  <Project Path="SLHDotNetInternshipTraining.EFCoreSample2.Database/SLHDotNetInternshipTraining.EFCoreSample2.Database.csproj" Id="309f8199-9018-4a68-8a31-d6af256bf422" />
+  <Project Path="SLHDotNetInternshipTraining.EFCoreSample2/SLHDotNetInternshipTraining.EFCoreSample2.csproj" Id="a42fe687-1cfd-4d05-a7be-e6c0a8eede7e" />
+  <Project Path="SLHDotNetInternshipTraining.WebApi/SLHDotNetInternshipTraining.WebApi.csproj" Id="36f2662b-1e1b-45e6-8237-5419621f3d3f" />
+  <Project Path="SLHDotNetInternshipTraining.WinFormsAppSample/SLHDotNetInternshipTraining.WinFormsAppSample.csproj" Id="57d9a2b7-3a15-4857-bad5-986ce9e7103b" />
 </Solution>
