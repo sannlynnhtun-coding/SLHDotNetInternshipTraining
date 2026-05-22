@@ -119,6 +119,12 @@ VALUES
 
             int result = db.Execute(query, item);
 
+            //using (IDbConnection db = new SqlConnection(builder.ConnectionString))
+            //{
+            //    db.Open();
+            //    int result = db.Execute(query, item);
+            //}
+
             Console.WriteLine(result > 0 ? "Create successful." : "Create failed.");
         }
 
